@@ -1,0 +1,16 @@
+Build Instructions
+
+Download browserify
+`npm i -g browserify`
+
+Run build_script
+`./build_script`
+
+Open the html file in a browser
+
+Remarks
+
+I tried to build this with as few libraries as possible, as it looked like it
+could be done with just html css js.
+
+Doing things without jquery helpers was a bit more difficult than anticipated.
